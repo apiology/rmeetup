@@ -3,7 +3,7 @@ PATH
   specs:
     rMeetup (2.0.1)
       buftok (~> 0.2)
-      http
+      http (>= 1.0)
       http_parser.rb (~> 0.6)
       json (~> 1.8)
 
