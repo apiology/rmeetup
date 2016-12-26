@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.required_rubygems_version = '>= 1.3.6'
 
-  spec.add_dependency 'json', '~> 1.8'
+  spec.add_dependency 'json', '>= 2'
   spec.add_dependency 'buftok', '~> 0.2'
   spec.add_dependency 'http', '>= 1'
   spec.add_dependency 'http_parser.rb', '~> 0.6'
